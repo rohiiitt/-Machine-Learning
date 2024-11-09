@@ -1,0 +1,1 @@
+model = pickle.load(open(r"C:\Users\Rohit Kumar\Downloads\Rainfall-Prediction-main\Rainfall-Prediction-main\xg_random.pkl", "rb"))
